@@ -63,6 +63,7 @@ I ship production **Next.js** and **MERN** systems that are measurably faster, c
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 **Testing & Quality**
 
@@ -73,6 +74,28 @@ I ship production **Next.js** and **MERN** systems that are measurably faster, c
 ---
 
 ## 🚀 Featured Projects
+
+### [🍅 TimerPromodo - Open Source Desktop App](https://github.com/ntsagar9/time-promodo)
+
+> Production-grade Pomodoro timer for macOS, Windows & Linux · Built for the community
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-E54B4B?style=flat-square)](https://github.com/ntsagar9/time-promodo)
+[![Download](https://img.shields.io/github/v/release/ntsagar9/time-promodo?style=flat-square&color=E54B4B&label=download)](https://github.com/ntsagar9/time-promodo/releases/latest)
+[![Stars](https://img.shields.io/github/stars/ntsagar9/time-promodo?style=flat-square&color=FFDD00)](https://github.com/ntsagar9/time-promodo/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/ntsagar9/time-promodo/blob/main/CONTRIBUTING.md)
+
+* 🖥️ **Full Electron desktop app** — main process timer, system tray, mini floating window, fullscreen overlay
+* 🔄 **Auto-update + crash reporting** — `electron-updater` via GitHub Releases, `electron-log` file transport
+* 📊 **Analytics & streaks** — daily/weekly charts, heatmap calendar, focus score (Recharts)
+* 🎨 **Modern UI** — Framer Motion animations, glassmorphism, dark/light/AMOLED themes
+* ⚙️ **6 built-in presets + custom** — Classic 25/5, Deep Work 90/20, and more
+* 🔐 **Secure IPC** — `contextIsolation`, no `nodeIntegration`, Zod-validated channels
+
+`Electron` `React 18` `TypeScript` `Vite` `Zustand` `Tailwind CSS` `Framer Motion` `electron-builder`
+
+[📥 Download](https://github.com/ntsagar9/time-promodo/releases/latest) · [⭐ Star it](https://github.com/ntsagar9/time-promodo) · [🤝 Contribute](https://github.com/ntsagar9/time-promodo/blob/main/CONTRIBUTING.md) · [☕ Buy Me a Coffee](https://buymeacoffee.com/ntsagar)
+
+---
 
 ### [Prexmo - Digital Business Card SaaS](https://prexmo.com)
 > Multi-tenant SaaS platform with enterprise-grade access control
