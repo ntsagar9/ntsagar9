@@ -97,17 +97,6 @@ I ship production **Next.js** and **MERN** systems that are measurably faster, c
 
 ---
 
-### [Prexmo - Digital Business Card SaaS](https://prexmo.com)
-> Multi-tenant SaaS platform with enterprise-grade access control
-
-- 🏗️ Sole architect of 3-tier hierarchical RBAC (platform → company → business) - **zero tenant data bleed** since launch
-- 🗄️ PostgreSQL schema with Prisma ORM + row-level tenant isolation + Stripe subscription billing
-- ⚡ Sub-1s LCP via Next.js ISR, structured metadata & dynamic OG rendering
-
-`Next.js` `PostgreSQL` `Prisma` `Stripe` `RBAC` `TypeScript` `Tailwind CSS`
-
----
-
 ### [IAVMEP - UAE Government Enterprise Platform](https://asateel.itc.gov.ae/IAVMEP)
 > Secure government platform serving enterprise-scale concurrent users
 
